@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Mehdi 👋
 
-<!--
-**MehdiGurbanzade/MehdiGurbanzade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Data Science student at HAW Kiel, with a background in network infrastructure (Cisco, MikroTik, GPON — CCNA certified) and hands-on field engineering. These days I build full-stack apps and data-driven platforms.
 
-Here are some ideas to get you started:
+**Currently working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚗 A car-parts fitment catalog site (React + Node/Express + SQLite) built on scraped TecDoc-format fitment data
+- 🏭 An Industrial IoT monitoring platform (FastAPI, MySQL, MongoDB, Redis, Docker microservices)
+- 📚 A study/reading planner with Telegram notifications (FastAPI + Streamlit + PostgreSQL)
+
+**Tech I work with**
+
+Python · TypeScript/JavaScript · React · Node.js · FastAPI · Docker · SQL (MySQL/PostgreSQL/SQLite) · MongoDB · Redis · Git · Networking (Cisco/MikroTik)
+
+**Background**
+
+Before moving into data science and software, I worked as a field technician and in ISP/networking infrastructure — VLANs, VPNs, firewalls, and GPON deployments.
+
+📫 Reach me here on GitHub.
