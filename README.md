@@ -15,7 +15,7 @@ M.Sc. Data Science student with a background as a network specialist (CCNA). I w
 | Project | Description | Tech |
 |---|---|---|
 | [Apple Leaf Disease Classification](https://github.com/MehdiGurbanzade/apple-leaf-disease-classification) | CNN classifier for 4 apple leaf classes, 0.99 macro precision on the test set | PyTorch, CNN |
-| [Finger Gun Detector](https://github.com/MehdiGurbanzade/finger-gun-detector) | Real-time hand gesture recognition in the browser, [live demo](https://mehdigurbanzade.github.io/finger-gun-detector/) | MediaPipe Hands, JavaScript |
+| [Finger Gun](https://github.com/MehdiGurbanzade/finger-gun) | Real-time hand gesture recognition in the browser, [live demo](https://mehdigurbanzade.github.io/finger-gun/) | MediaPipe Hands, JavaScript |
 | [Spotify Hit Song Prediction](https://github.com/MehdiGurbanzade/spotify-hit-song-prediction) | Can audio features predict a hit? Nested cross-validation, permutation importance | scikit-learn |
 | [KFC Trustpilot Review Analysis](https://github.com/MehdiGurbanzade/kfc-trustpilot-review-analysis) | Own scraped dataset: sentiment vs. star rating, rating prediction | Selenium, TextBlob, scikit-learn |
 | [Airline Delay Clustering](https://github.com/MehdiGurbanzade/airline-delay-analysis) | Clustering 89,000 U.S. delay records to find the dominant delay causes | PCA, OPTICS, k-Means++ |
