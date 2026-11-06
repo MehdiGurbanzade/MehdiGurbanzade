@@ -6,7 +6,7 @@ M.Sc. Data Science student with a background as a network specialist (CCNA). I w
 
 - **Data Science and Machine Learning**: data analysis and visualization, classical ML, deep learning with PyTorch, web scraping
 - **Backend and web**: REST APIs with FastAPI, databases, Docker-based microservices, websites
-- **Networking and IT**: Cisco, MikroTik, GPON, VLANs, VPNs, firewalls, Windows administration
+- **Networking and IT**: setup and configuration of Cisco, MikroTik and TP-Link equipment, wireless access points and antenna installations, GPON, VLANs, VPNs, firewalls, Windows administration
 
 ### Featured projects
 
@@ -37,7 +37,7 @@ M.Sc. Data Science student with a background as a network specialist (CCNA). I w
 - **Data and ML:** pandas, NumPy, scikit-learn, PyTorch, matplotlib, seaborn, Plotly, Jupyter
 - **Backend and web:** FastAPI, Node.js, React, Streamlit
 - **Databases and DevOps:** MySQL, PostgreSQL, SQLite, Redis, Docker, Git
-- **Networking:** Cisco, MikroTik, GPON
+- **Networking:** Cisco, MikroTik, TP-Link, wireless access points, antennas, GPON, VLAN, VPN, firewalls
 
 ### Contact
 
